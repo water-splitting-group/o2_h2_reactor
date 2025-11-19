@@ -4,8 +4,6 @@ This repository contains original data and analysis code for "Name of paper".
 
 The publication (open access) is available Link and you can directly access the PDF file Link.
 
-comp_studies contains the log files of the computaional calculations of the Ru(PNP) complex. The .cub and .fchk can be found in the zenodo repostiroy add link
-
 data_analysis contains the different python programs and excel files used for data analysis. Note that these programs use various files from experimental_Data, hence these directory must be present to run most of the python scripts.
 
 documents contains the paper and the supporting information.
