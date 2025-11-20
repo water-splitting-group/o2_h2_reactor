@@ -1,0 +1,6 @@
+outer Diameter of Bottom part is 40 mm
+height till start of necks approx. 40 mm
+necks are arranged in cross-shape
+1 neck has NS14.5 Valve with 4 mm bore
+neck opposite to that has NS14 outer Joint and maximal height below 50 mm
+other 3 necks have NS14 outer Joint with total height of approx. 60 mm

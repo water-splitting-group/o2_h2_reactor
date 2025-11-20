@@ -1,0 +1,16 @@
+part; amount needed
+back_wall_v1-1; 1
+side_walls_v1-0; 1
+bottom_wall_v1-0; 1
+front_wall_v1-0; 1
+lid_v1-0; 1
+aperture_dummy_v1-0; 1
+aperture_led_v1-0; 1
+aperture_power_sensor_v1-0; 1
+holder_power_sensor_v1-0; 1
+3mm nuts DIN439; 8
+M3x25 screws DIN912; 8
+LCS-0365-76-22 super high power LED from Mightex; 1
+BLS-18000-1 power supply from Mightex; 1
+843-R-USB power meter from Newport; 1
+919P-020-12 power sensor from Newport; 1

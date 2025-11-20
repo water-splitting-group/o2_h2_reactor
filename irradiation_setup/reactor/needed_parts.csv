@@ -1,0 +1,4 @@
+part; amount needed
+reactor; 1
+transition piece NS14 to GL14; 4
+transition piece NS14 to GL18; 1

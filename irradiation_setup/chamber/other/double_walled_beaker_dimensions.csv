@@ -1,0 +1,8 @@
+measurement; value; unit
+height_outer_beaker; 55-60; mm
+height_inner_beaker; 50; mm
+diameter_outer_beaker; 60-65; mm
+diameter_inner_beaker; 45; mm
+thickness_wall; 1-2; mm
+position_GL14_inlet_from_bottom; 5; mm
+position_GL14_outlet_from_top; 5; mm

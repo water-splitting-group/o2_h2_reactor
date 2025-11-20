@@ -1,0 +1,13 @@
+1. print all needed parts and remove the support
+2. add 3mm nuts in the holes in the side walls (see figure 1). Make sure that the nuts are as far down as possible
+3. add M3x25 screws in the side walls, analog to the Irradiation chamber
+4. screw the side walls to the back wall (see figure 2)
+5. slide in bottom wall (see figure 3)
+6. add aperture or holder for power sensor (see figure 4)
+7. add front wall (see figure 5)
+8. add apertures for LED and dummy aperture to holes the side walls
+9. add power sensor to holder or aperture for power sensor
+10. add lid (see figure 6, power sensor not installed in Picture)
+11. connect power sensor to power meter
+12. slide in LED into aperture for LED
+13. connect the LED to the power supply

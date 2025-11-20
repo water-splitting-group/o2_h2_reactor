@@ -1,0 +1,13 @@
+1. print all needed parts and remove the support
+2. add 3mm nuts in the holes in the side walls (see figure 1). Make sure that the nuts are as far down as possible
+3. add M3x25 screws in the side walls (see figure 2)
+4. screw the side walls to the back wall
+5. add stabilizors on the Bottom of the side wall and the back wall (see figure 3)
+6. slide in bottom wall (see figure 4)
+7. add aperture for double walled beaker in to hole in the Bottom wall (see figure 5)
+8. add apertures for LED and dummy aperture to holes the side walls
+9. move the chamber into a Irradiation setup
+10. add double walled beaker into aperture for double walled beaker and secure it with power strips to the aperture
+11. add tubing to the double walled beaker, connect it to the Thermostat and fill it with coolant
+12. slide in LED into aperture for LED
+13. connect the LED to the power supply
