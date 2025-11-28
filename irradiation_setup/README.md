@@ -8,6 +8,6 @@ This directory contains the files and instructions needed to build the irradiati
 
 `reactor` contains the files and instructions to build the reactor
 
-`setup` contains the instructions to build the irradiaiton setup
+`setup` contains the instructions to build the irradiaiton setup, meaining the wooden enclousre and parts beside the chamber and reactor installed in the complete setup
 
 `synthesis` contains the labjournal entries of the synthesis of the ligands and complexes
