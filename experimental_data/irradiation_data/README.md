@@ -3,7 +3,7 @@ Contains raw data from photocatalytic tests.
 
 `H2_data`contains .csv files for all H2 measurements. 
 
-`O2_data`contains .txt files for all H2 measurements.
+`O2_data`contains .txt files for all O2 measurements.
 
 `251126_O2_H2_Experiment_Overview.xlsx` contains metadata for all photocatalytic tests in Excel file
 
