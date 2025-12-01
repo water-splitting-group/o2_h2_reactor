@@ -32,7 +32,7 @@ Changing temperature relative to reference conditions
 
 | Temperature, °C  | Experiment names |
 | ----------- | ---------------- |
-| 10 | NB-359, NB-360 |
+| 10 | NB-351, NB-359, NB-360 |
 | 30 | NB-330, NB-334 |
 
 
