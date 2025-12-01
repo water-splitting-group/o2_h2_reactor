@@ -4,17 +4,17 @@ This repository contains original data and analysis code for "Simultaneous in si
 
 The publication (open access) is available Link and you can directly access the PDF file Link.
 
-`data_analysis` contains the different python programs and excel files used for data analysis. Note that these programs use various files from experimental_Data, hence these directory must be present to run most of the python scripts.
+`data_analysis` contains different python programs and excel files used for data analysis. Note that these programs use various files from experimental_data, hence these directory must be present to run most of the python scripts.
 
 `documents` contains manuscript and supporting information.
 
-`experimental_data` contains various experimental data, both from irradiation experiments, as well as for synthesis and analytical data.
+`experimental_data` contains experimental data, both from photocatalytic experiments, and photocatalyst characterization.
 
-`figures` contains figures that appear in either the manuscript or supporting information
+`figures` contains figures that appear in  manuscript and supporting information.
 
-`irradiation_setup` contains the files and instrucitions to build the setup descirpted in the manuscript
+`irradiation_setup` contains files and instructions to build the setup provided in the manuscript.
 
-`labjournal_entries` contains electronic labjournal entries of all relevant experiments, as well as the device entries as .pdf files
+`labjournal_entries` contains electronic labjournal entries of all relevant photocatalytic and synthetic experiments, general protocols (including calibration procedures, standard procedures for in situ measurements etc.), design and 3D printing of the setup compartments, as well as the devices entries in the form of .pdf files.
 
 Subdirectories contain separate README.md files which detail their contents.
 
