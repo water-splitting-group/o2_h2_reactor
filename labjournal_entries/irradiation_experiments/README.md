@@ -48,7 +48,7 @@ Changing content of Rh and Cr in the photocatalyst
 
 
 
-# Kinetic isotope effect investigation
+# Kinetic isotope effect investigation:
 Using D2O as dispersion medium
 50 mW/cm2, 20 °C, 0.1 wt% Rh Cr content
 
@@ -58,7 +58,7 @@ Using D2O as dispersion medium
 
 
 
-# Gas phase measurements
+# Gas phase measurements:
 Measurements in gas phase
 
 | Type of measurements | Experiment names |
