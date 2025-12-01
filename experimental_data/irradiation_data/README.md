@@ -16,7 +16,7 @@ General notes: In all experiments 25 mL of photocatalyst suspension with 0.5 mg/
 
 
 # Reference experiments: 
-50 mW/cm2, 20°C, 0.1 wt% Rh Cr content, H2O 
+#### 50 mW/cm2, 20°C, 0.1 wt% Rh Cr content, H2O 
 
 | Conditions  | Experiment names |
 | ----------- | ---------------- |
@@ -25,8 +25,8 @@ General notes: In all experiments 25 mL of photocatalyst suspension with 0.5 mg/
 
 
 # Irradiance screening: 
-Changing irradiance relative to reference conditions
-20°C, 0.1 wt% Rh Cr content, H2O
+#### Changing irradiance relative to reference conditions
+#### 20°C, 0.1 wt% Rh Cr content, H2O
 
 | Irradiance, mW/cm2  | Experiment names |
 | ----------- | ---------------- |
@@ -37,8 +37,8 @@ Changing irradiance relative to reference conditions
 
 
 # Temperature screening: 
-Changing temperature relative to reference conditions
-50 mW/cm2, 0.1 wt% Rh Cr content, H2O
+#### Changing temperature relative to reference conditions
+#### 50 mW/cm2, 0.1 wt% Rh Cr content, H2O
 
 | Temperature, °C  | Experiment names |
 | ----------- | ---------------- |
@@ -48,8 +48,8 @@ Changing temperature relative to reference conditions
 
 
 # Co-catalyst loading screening: 
-Changing content of Rh and Cr in the photocatalyst
-50 mW/cm2, 20 °C, H2O
+#### Changing content of Rh and Cr in the photocatalyst
+#### 50 mW/cm2, 20 °C, H2O
 
 | Rh, Cr content, wt% | Experiment names |
 | ----------- | ---------------- |
@@ -58,7 +58,7 @@ Changing content of Rh and Cr in the photocatalyst
 
 
 
-# Kinetic isotope effect investigation
+# Kinetic isotope effect investigation:
 Using D2O as dispersion medium
 50 mW/cm2, 20 °C, 0.1 wt% Rh Cr content
 
@@ -68,7 +68,7 @@ Using D2O as dispersion medium
 
 
 
-# Gas phase measurements
+# Gas phase measurements:
 Measurements in gas phase
 
 | Type of measurements | Experiment names |
