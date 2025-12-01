@@ -1,13 +1,15 @@
 # General
 
-This directory contains the labjournal entries.
+This directory contains labjournal entries.
 
-`equipment` contains the labjournal entries of the used devices in the other directories
+`equipment` contains labjournal entries of the used devices 
 
-`general_protocols` contains the labjournal entries of the used general protocols in the other directories
+`general_protocols` contains labjournal entries of the used general protocols 
 
-`irradiation setup` contains the labjournal entries for building the setups
+`irradiation_experiments` contains labjournal entries for all photocatalytic tests
 
-`irradiations` contains the labjournal entries for all irradiation experiments 
+`irradiation setup` contains labjournal entries for construction of irradiation chambers, 4-neck photoreactor
 
-`synthesis` contains the labjournal entries of the synthesis of the ligands and complexes
+`synthesis_experiments` contains labjournal entries for photocatalyst preparation
+
+
