@@ -42,7 +42,7 @@ General notes: In all experiments 25 mL of photocatalyst suspension with 0.5 mg/
 
 | Temperature, °C  | Experiment names |
 | ----------- | ---------------- |
-| 10 | NB-359, NB-360 |
+| 10 | NB-351, NB-359, NB-360 |
 | 30 | NB-330, NB-334 |
 
 
