@@ -4,8 +4,6 @@ This repository contains original data and analysis code for "Simultaneous in si
 
 The publication (open access) is available Link and you can directly access the PDF file Link.
 
-`data_analysis` contains different python programs and excel files used for data analysis. Note that these programs use various files from experimental_data, hence these directory must be present to run most of the python scripts.
-
 `documents` contains manuscript and supporting information.
 
 `experimental_data` contains experimental data, both from photocatalytic experiments, and photocatalyst characterization.
@@ -19,11 +17,6 @@ The publication (open access) is available Link and you can directly access the 
 Subdirectories contain separate README.md files which detail their contents.
 
 We actively encourage others to work on this interesting new avenue in automatization, are happy to answer questions or comments and are open to cooperations in this field.
-
-# Dependencies
-
-Python code (Python >3.7) requires the following libraries:  
-
 
 # License
 
