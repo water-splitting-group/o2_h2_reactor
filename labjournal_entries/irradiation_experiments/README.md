@@ -58,6 +58,16 @@ Using D2O as dispersion medium
 
 
 
+# Kinetic isotope effect investigation (gas phase measurements):
+#### Using D2O as dispersion medium
+#### 50 mW/cm2, 20 °C, 0.1 wt% Rh Cr content, 70 min irradiation
+
+| Dispesion medium | Experiment names |
+| ----------- | ---------------- |
+| D2O | NB-365, NB-366, NB-367 |
+
+
+
 # Gas phase measurements:
 Measurements in gas phase
 
