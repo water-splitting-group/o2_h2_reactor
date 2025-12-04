@@ -5,7 +5,7 @@ Contains raw data from photocatalytic tests.
 
 `O2_data`contains .txt files for all O2 measurements.
 
-`251126_O2_H2_Experiment_Overview.xlsx` contains metadata for all photocatalytic tests in Excel file
+`251204_O2_H2_Experiment_Overview.xlsx` contains metadata for all photocatalytic tests in Excel file
 
 Description of all photocatalytic tests is provided below.
 
@@ -65,6 +65,16 @@ General notes: In all experiments 25 mL of photocatalyst suspension with 0.5 mg/
 | Dispesion medium | Experiment names |
 | ----------- | ---------------- |
 | D2O | NB-346, NB-349 |
+
+
+
+# Kinetic isotope effect investigation (gas phase measurements):
+#### Using D2O as dispersion medium
+#### 50 mW/cm2, 20 °C, 0.1 wt% Rh Cr content, 70 min irradiation
+
+| Dispesion medium | Experiment names |
+| ----------- | ---------------- |
+| D2O | NB-365, NB-366, NB-367 |
 
 
 
