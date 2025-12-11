@@ -2,8 +2,6 @@
 
 This repository contains original data and analysis code for "Simultaneous in situ oxygen and hydrogen detection during photocatalytic water splitting".
 
-The publication (open access) is available Link and you can directly access the PDF file Link.
-
 `documents` contains manuscript and supporting information.
 
 `experimental_data` contains experimental data, both from photocatalytic experiments, and photocatalyst characterization.
