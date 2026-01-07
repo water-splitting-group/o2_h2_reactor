@@ -1,0 +1,109 @@
+                        Quantachrome® ASiQwin™- Automated Gas Sorption Data
+                                     Acquisition and Reduction
+                               © 1994-2012, Quantachrome Instruments
+                                            version 3.0
+
+Analysis                                          Report
+Operator:      KS             Date:12/4/2025      Operator: QC                  Date:2025/12/05
+Sample ID:     SP                  Filename:      20251204_EA_402_NB_352_BET _N2_77_K.QPS
+Sample Desc:                       Comment:        
+Sample weight: 0.2410 g
+Analysis Time: 497.1 min           End of run:    12/4/2025 18:27:37  Instrument:    QuadraSorb Station 1
+Void Vol.:     He Mode.Cell: 9mm large bulbRun modeStandard           Instrument version:5.06
+Thermal delay: 30 sec              He evac time:  15 min
+Outgas Time:   15.0 hrs            OutgasTemp:    150.0 C
+Analysis gas:  Nitrogen            Bath Temp:     77.3 K
+Press. Tolerance:0.050/0.050 (ads/des)Equil time: 100/100 sec (ads/des)Equil timeout:300/300 sec (ads/des)
+                                     Data Reduction Parameters
+Adsorbate      Nitrogen                 Temperature    77.350K
+ 
+               Molec. Wt.: 28.013       Cross Section: 16.200  Å²     Liquid Density: 0.808  g/cc
+
+                     Relative                                        Volume @ STP
+                     Pressure                                               
+                                                                         cc/g
+
+                        1.23980e-02                                       0.2647
+                        2.59717e-02                                       0.4212
+                        5.22942e-02                                       0.4005
+                        8.12467e-02                                       0.4410
+                        1.07434e-01                                       0.5308
+                        1.34290e-01                                       0.5710
+                        1.58493e-01                                       0.6415
+                        2.07799e-01                                       0.7349
+                        2.57848e-01                                       0.8357
+                        3.07591e-01                                       1.0102
+                        3.59763e-01                                       1.0685
+                        4.05269e-01                                       1.1394
+                        4.54958e-01                                       1.2154
+                        5.05366e-01                                       1.3032
+                        5.55841e-01                                       1.4446
+                        6.04838e-01                                       1.5300
+                        6.52416e-01                                       1.6114
+                        7.03935e-01                                       2.1729
+                        7.55153e-01                                       2.1328
+                        8.06841e-01                                       2.2116
+                        8.59951e-01                                       2.3010
+                        9.10181e-01                                       2.4655
+                        9.57710e-01                                       2.7641
+                        9.86330e-01                                       3.3300
+                        9.35427e-01                                       2.5600
+                        8.87601e-01                                       2.3665
+                        8.35504e-01                                       2.2432
+                        7.95357e-01                                       2.1232
+                        7.43211e-01                                       2.0405
+                        6.92435e-01                                       1.9176
+                        6.48068e-01                                       1.8401
+                        5.93540e-01                                       1.7671
+                        5.47764e-01                                       1.6954
+                        4.96429e-01                                       1.5831
+                        4.45515e-01                                       1.5040
+                        3.93331e-01                                       1.3586
+                        3.42767e-01                                       1.2412
+                        2.90416e-01                                       1.1224
+                        2.45482e-01                                       1.0339
+                        1.96043e-01                                       0.9021
+                        1.46362e-01                                       0.7931
+                        9.35471e-02                                       0.6709
+                        5.39367e-02                                       0.5745
+
+                        Quantachrome® ASiQwin™- Automated Gas Sorption Data
+                                     Acquisition and Reduction
+                               © 1994-2012, Quantachrome Instruments
+                                            version 3.0
+
+Analysis                                          Report
+Operator:      KS             Date:12/4/2025      Operator: QC                  Date:2025/12/05
+Sample ID:     SP                  Filename:      20251204_EA_402_NB_352_BET _N2_77_K.QPS
+Sample Desc:                       Comment:        
+Sample weight: 0.2410 g
+Analysis Time: 497.1 min           End of run:    12/4/2025 18:27:37  Instrument:    QuadraSorb Station 1
+Void Vol.:     He Mode.Cell: 9mm large bulbRun modeStandard           Instrument version:5.06
+Thermal delay: 30 sec              He evac time:  15 min
+Outgas Time:   15.0 hrs            OutgasTemp:    150.0 C
+Analysis gas:  Nitrogen            Bath Temp:     77.3 K
+Press. Tolerance:0.050/0.050 (ads/des)Equil time: 100/100 sec (ads/des)Equil timeout:300/300 sec (ads/des)
+                                     Data Reduction Parameters
+Adsorbate      Nitrogen                 Temperature    77.350K
+ 
+               Molec. Wt.: 28.013       Cross Section: 16.200  Å²     Liquid Density: 0.808  g/cc
+
+            Relative                      Volume @ STP                1 / [ W((Po/P) - 1) ]
+            Pressure                                                             
+              P/Po                            cc/g                               
+
+               8.12467e-02                     0.4410                          1.6046e+02
+               1.07434e-01                     0.5308                          1.8143e+02
+               1.34290e-01                     0.5710                          2.1735e+02
+               1.58493e-01                     0.6415                          2.3493e+02
+               2.07799e-01                     0.7349                          2.8560e+02
+               2.57848e-01                     0.8357                          3.3264e+02
+
+                                                BET summary
+                                           Slope =       984.065
+                                       Intercept =         8.007e+01
+                      Correlation coefficient, r =         0.998818
+                                       C constant=        13.290
+ 
+                                    Surface Area =         3.273 m²/g
+ 
