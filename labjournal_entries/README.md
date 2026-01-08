@@ -12,4 +12,6 @@ This directory contains labjournal entries.
 
 `synthesis_experiments` contains labjournal entries for photocatalyst preparation
 
+`calibration_experiments` contains labjournal entries for calibration of Unisense and Pyroscience sensors
+
 
